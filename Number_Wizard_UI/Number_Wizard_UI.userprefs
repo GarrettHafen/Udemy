@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NumberWizard.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\BlockBreaker\Assets\Scripts\LoseCollider.cs">
     <Files>
-      <File FileName="Assets\LevelManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\NumberWizard.cs" Line="22" Column="16" />
+      <File FileName="..\BlockBreaker\Assets\Scripts\BackgroundMusicPlayer.cs" Line="1" Column="2" />
+      <File FileName="..\BlockBreaker\Assets\Scripts\LoseCollider.cs" Line="9" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
