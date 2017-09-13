@@ -20,7 +20,7 @@ public class Ball : MonoBehaviour {
 			if (Input.GetMouseButtonDown (0)) {
 				hasStarted = true;
 				float xFactor = Random.Range (-5, 5);
-				this.rigidbody2D.velocity = new Vector2 (0f, 10f);
+				this.rigidbody2D.velocity = new Vector2 (xFactor, 10f);
 				print (xFactor);
 			}
 		}
